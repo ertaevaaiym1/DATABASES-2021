@@ -1,0 +1,5 @@
+Database Discipline Project
+Ertaeva Aiym Kuanyshkyzy
+The relation_model.sql file contains the code for creating relations in PostgreSQL, contains indices and constraints as appropriate and satisfy to normal forms.
+The populate_relations.sql file contains for filling tables with data corresponding to the queries in the task.
+In the project folder also has an er_model.jpg model file.
